@@ -1,0 +1,66 @@
+.bgBack {
+    background: url("../img/bgh.jpg") no-repeat center center fixed;
+
+}
+.head1 {
+    background-color: #0A366C;
+}
+.head2 {
+    background-color: #F1F1F1;
+}
+
+.section1 {
+    color: #0A366C;
+}
+
+.textRed {
+    color: red;
+}
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+}
+
+h2 {
+    font-family: 'Poppins', sans-serif;
+}
+
+h3 {
+    font-family: 'Poppins', sans-serif;
+}
+
+p {
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.myButton {
+    box-shadow: 0px 1px 0px 0px #fff6af;
+    background: #ffec64 linear-gradient(to bottom, #ffec64 5%, #ffab23 100%);
+    border-radius: 6px;
+    border: 1px solid #ffaa22;
+    display: inline-block;
+    cursor: pointer;
+    color: #333333;
+    font-family: Arial;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 6px 24px;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px #ffee66;
+}
+
+.myButton:hover {
+    background: #ffab23 linear-gradient(to bottom, #ffab23 5%, #ffec64 100%);
+}
+
+.myButton:active {
+    position: relative;
+    top: 1px;
+}
+
+.overlay2 {
+    transition: opacity 0.5s ease;
+    -webkit-transition: opacity 0.5s ease;
+    -moz-transition: opacity 0.5s ease;
+}
